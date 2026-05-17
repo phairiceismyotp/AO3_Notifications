@@ -8,7 +8,9 @@ The project is unofficial and is not affiliated with Archive of Our Own, the Org
 
 Screenshots use fictional demo data for display purposes only. They do not contain real AO3 usernames, work titles, relationships, timestamps, Gmail data, or notification content.
 
-![AO3 Notifications widget](assets/ao3_notifications_ui.PNG)
+<p align="center">
+  <img src="assets/ao3_notifications_ui.PNG" alt="AO3 Notifications widget" width="640">
+</p>
 
 ## Features
 
