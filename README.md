@@ -64,10 +64,9 @@ Normal auto-refresh requests use the Google Apps Script cache. Clicking `Refresh
 4. Save the userscript (Ctrl + S).
 5. Open AO3.
 6. Click the AO3 Notifications bell.
-7. Open `Settings`.
-8. Paste the Google Apps Script deployment ID.
-9. Set `Number of Notifications` to the number of cards you want displayed.
-10. Save.
+7. Paste the Google Apps Script deployment ID.
+8. Set `Number of Notifications` to the number of cards you want displayed.
+9. Save.
 
 ## Configuration
 
@@ -107,4 +106,4 @@ Thank you, sincerely.
 
 AO3 Notifications is licensed under AGPL-3.0-only. See `LICENSE` for the full license text.
 
-Copyright (c) 2026 phairiceismyotp (or3zz)
+Copyright (c) 2026 phairiceismyotp (or3zz - Nguyen Tin)
