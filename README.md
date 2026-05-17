@@ -95,6 +95,14 @@ The author does not receive AO3 email content, Gmail data, deployment IDs, or no
 
 Before installing, users are encouraged to review the source code. `AI_AUDIT_GUIDE.md` includes a prompt for independent AI-assisted review.
 
+## Acknowledgements
+
+This project was inspired by PhaiRice, the Phainon x Castorice pairing from Honkai: Star Rail. They are the reason behind the name `phairiceismyotp` and the blue-purple alternating theme in the Tampermonkey interface.
+
+My deepest thanks go to the friends and beta testers from the PhaiRice shipper community. Your support, testing, and suggestions helped shape this project from a small personal tool into something worth sharing.
+
+Thank you, sincerely.
+
 ## License
 
 AO3 Notifications is licensed under AGPL-3.0-only. See `LICENSE` for the full license text.
