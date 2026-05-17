@@ -3,7 +3,7 @@
 // @namespace    https://github.com/phairiceismyotp/AO3_Notifications
 // @version      1.0.0
 // @description  Show AO3 email notifications via a personal Google Apps Script service.
-// @author       phairiceismyotp (or3zz)
+// @author       phairiceismyotp (or3zz - Nguyen Tin)
 // @license      AGPL-3.0-only
 // @match        https://archiveofourown.org/*
 // @icon         https://archiveofourown.org/favicon.ico
