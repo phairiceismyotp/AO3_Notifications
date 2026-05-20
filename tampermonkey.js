@@ -255,7 +255,7 @@
         }) : createText(''),
         createElement('span', { className: 'credit' }, [
           createText('Code by '),
-          createAo3Link('https://archiveofourown.org/users/phairiceismyotp/profile', 'phairiceismyotp')
+          createAo3Link('https://github.com/phairiceismyotp', 'phairiceismyotp')
         ])
       ])
     ]);
