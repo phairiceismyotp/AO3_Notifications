@@ -25,7 +25,7 @@
     deploymentIdKey: 'ao3Notifications.deploymentId',
     notificationLimitKey: 'ao3Notifications.notificationLimit',
     readNotificationIdsKeyPrefix: 'ao3Notifications.readNotificationIds',
-    fontFamily: 'Cambria, serif',
+    fontFamily: 'Cambria, sans-serif',
     defaultNotificationLimit: 20,
     maxNotificationLimit: 50,
     autoRefreshIntervalMs: 5 * 60 * 1000
