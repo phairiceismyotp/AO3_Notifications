@@ -4,6 +4,10 @@ AO3 Notifications is a personal Tampermonkey userscript plus Google Apps Script 
 
 The project is unofficial and is not affiliated with Archive of Our Own, the Organization for Transformative Works, Google, Gmail, or Tampermonkey.
 
+## Video Tutorial
+
+[Watch the step-by-step installation guide on YouTube](https://www.youtube.com/watch?v=pZSqFrDbJJA)
+
 ## Screenshots
 
 Screenshots use fictional demo data for display purposes only. They do not contain real AO3 usernames, work titles, relationships, timestamps, Gmail data, or notification content.
@@ -39,10 +43,6 @@ Screenshots use fictional demo data for display purposes only. They do not conta
 `tampermonkey.js` runs on AO3 pages, calls the user's Google Apps Script deployment, groups chapter updates by work, and renders notification cards in a Shadow DOM widget.
 
 Normal auto-refresh requests use the Google Apps Script cache. Clicking `Refresh` sends `bypassCache=1`, forcing the service to read Gmail again.
-
-## Video Tutorial
-
-[Watch the step-by-step installation guide on YouTube](https://www.youtube.com/watch?v=pZSqFrDbJJA)
 
 ## Installation
 
