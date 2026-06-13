@@ -6,7 +6,15 @@ The project is unofficial and is not affiliated with Archive of Our Own, the Org
 
 ## Video Tutorial
 
-[Watch the step-by-step installation guide on YouTube](https://www.youtube.com/watch?v=pZSqFrDbJJA)
+[Watch the step-by-step installation guide on YouTube](https://www.youtube.com/watch?v=ppEqXcjomz0)
+
+The tutorial uses real AO3 data for an objective demonstration:
+
+- Work: [Deus videt, Deus audit, Deus scit](https://archiveofourown.org/works/84853471)
+- Uploader: [Vias](https://archiveofourown.org/users/Vias/pseuds/Vias)
+- Written by RHANTOLK DE WEST
+
+The referenced work and uploader profile belong to their respective AO3 creator.
 
 ## Screenshots
 
