@@ -10,11 +10,11 @@ The project is unofficial and is not affiliated with Archive of Our Own, the Org
 
 The tutorial uses real AO3 data for an objective demonstration:
 
-- Work: [Deus videt, Deus audit, Deus scit](https://archiveofourown.org/works/84853471)
-- Uploader: [Vias](https://archiveofourown.org/users/Vias/pseuds/Vias)
-- Written by RHANTOLK DE WEST
+- Work: [From You, A Whisper of Hope](https://www.youtube.com/watch?v=NvqcZP89N5o)
+- Author: [VanToRia](https://archiveofourown.org/users/VanToRia/pseuds/VanToRia)
+- Series: [The Death and the Pale Dawn](https://archiveofourown.org/series/4966846)
 
-The referenced work and uploader profile belong to their respective AO3 creator.
+The referenced work, author profile, and series belong to their respective AO3 creator.
 
 ## Screenshots
 
