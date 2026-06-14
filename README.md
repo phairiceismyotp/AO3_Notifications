@@ -6,7 +6,7 @@ The project is unofficial and is not affiliated with Archive of Our Own, the Org
 
 ## Video Tutorial
 
-[Watch the step-by-step installation guide on YouTube](https://www.youtube.com/watch?v=ppEqXcjomz0)
+[Watch the step-by-step installation guide on YouTube](https://www.youtube.com/watch?v=NvqcZP89N5o)
 
 The tutorial uses real AO3 data for an objective demonstration:
 
