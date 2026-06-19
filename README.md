@@ -60,7 +60,7 @@ Normal auto-refresh requests use the Google Apps Script cache. Clicking `Refresh
 2. Replace the default code with the contents of `gscript.gs`.
 3. Save the project (Ctrl + S).
 4. Deploy it as a web app.
-5. Use the most restrictive access setting that still lets your own browser call the deployment. Do not expose the deployment publicly unless you understand the risk.
+5. Use "Anyone" access setting. Do not expose the deployment publicly unless you understand the risk.
 6. Authorize the script when Google asks for Gmail access.
 7. Copy the deployment ID.
 
